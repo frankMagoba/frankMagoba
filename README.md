@@ -28,8 +28,8 @@ I'm a **Software Developer & Project Manager** with expertise in building scalab
 **IDEs & Tools:**  
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
-## 🏆 Certifications & Skills
-- **AWS Certified**  
+## 🏆 Skills
+- **AWS**  
 - **Project Management** (Agile, Scrum)  
 - **CI/CD Pipelines** with **GitHub Actions & Jenkins**  
 - **API Development** with **FastAPI & NestJS**  
